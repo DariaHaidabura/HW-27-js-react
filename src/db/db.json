@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "task": "buy milk",
+      "complited": true,
+      "id": 1,
+      "completed": false
+    },
+    {
+      "task": "buy bread",
+      "complited": true,
+      "id": 2,
+      "completed": true
+    },
+    {
+      "task": "buy sugar",
+      "complited": true,
+      "id": 3,
+      "completed": false
+    },
+    {
+      "task": "buy salt",
+      "complited": false,
+      "id": 4,
+      "completed": true
+    }
+  ]
+}

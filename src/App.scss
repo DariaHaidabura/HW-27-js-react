@@ -1,0 +1,36 @@
+ul {
+  list-style-type: decimal;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+  margin-left: 5px;
+  float: left;
+  clear: left;
+  font-weight: lighter;
+  margin: 10px 0 10px 41px;
+  font-size: medium;
+  position: relative;
+  line-height: 22px;
+}
+
+button {
+  width: 100px;
+  height: 36px;
+  line-height: 25px;
+  margin-left: 5px;
+  border: none;
+  background: salmon;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: large;
+  cursor: pointer;
+  text-align: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+.btn {
+  margin-top: 10px;
+}
